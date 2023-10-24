@@ -16,6 +16,7 @@ module.exports = {
     "./src/Components/Home/SectionFour.js",
     "./src/Components/Home/SectionFive.js",
     "./src/Components/Home/SectionSix.js",
+    "./src/pages/Puy/PuyPage.js",
   ],
   theme: {
     extend: {},

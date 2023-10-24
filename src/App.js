@@ -3,6 +3,7 @@ import './App.css';
 import HomePage from './pages/Home/HomePage';
 import Navbar from './Components/Uitily/Navbar';
 import Footer from './Components/Uitily/Footer';
+import PuyPage from './pages/Puy/PuyPage';
 function App() {
   return (
     <div className=" ">
@@ -10,6 +11,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/' element={<HomePage />} />
+          <Route path='/puy' element={<PuyPage />} />
         </Routes>
       </BrowserRouter>
       <Footer></Footer>
