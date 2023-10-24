@@ -3,6 +3,7 @@ module.exports = {
   content: [
     "./src/index.js",
     "./src/Components/Uitily/Navbar.js",
+    "./src/Components/Uitily/Footer.js",
     "./src/Components/Uitily/GeneralButton.js",
     "./src/Components/Uitily/CardOfData.js",
     "./src/Components/Uitily/PlacesSliderText.js",

@@ -1,9 +1,9 @@
 import React from 'react'
-import PlacesSliderText from './../Uitily/PlacesSliderText';
 import PlacesSlider from '../Uitily/PlacesSlider';
 import img from '../../imgs/mobile comment.png'
 import img2 from '../../imgs/app-store-white.png'
 import img3 from '../../imgs/google-play-white.png'
+import PlacesSliderText from './../Uitily/PlacesSliderText';
 export default function SectionSix() {
     return (
         <div className='mx-auto max-w-2xl   px-4 sm:px-6 lg:px-8  lg:max-w-7xl  '>
