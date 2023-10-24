@@ -6,7 +6,7 @@ export default function SectionOne() {
   return (
     <div className='mx-auto max-w-2xl  py-8 px-4 sm:px-6 lg:px-8 sm:py-12 lg:max-w-7xl flex max-lg:flex-col-reverse'>
       <div style={{ flex: 2 }} className='sm:py-12 sm:px-6'>
-        <h2 className='   text-6xl mb-3'
+        <h2 className='  max-sm:text-4xl sm:text-6xl mb-3'
         >Get the best deals and
           offers in your favorite
           <span className=' bg-gradient-to-r from-fuchsia-800  to-orange-400 text-transparent  bg-clip-text'> premium stores!</span>

@@ -15,7 +15,7 @@ export default function SectionSix() {
             <div className=' lg:w-full lg:h-96 bg-gradient-to-r from-fuchsia-800  to-orange-400 text-transparent my-48 rounded-2xl flex max-lg:flex-col-reverse'>
                 <div className=' flex-1 flex items-center justify-center px-14 flex-col max-lg:m-5'>
 
-                    <h2 style={{ color: '#ffffff57' }} className='    text-5xl mb-3 text-neutral-50'
+                    <h2 style={{ color: '#ffffff57' }} className='    max-sm:text-4xl sm:text-5xl mb-3 text-neutral-50'
                     >Enjoy the experience
                         of shopping more and
 

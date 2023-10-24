@@ -10,16 +10,16 @@ export default function Footer() {
                     <div className=' w-28'>
                         <img src={logo} className='  w-full overflow-hidden rounded-md  lg:aspect-none group-hover:opacity-75 ' ></img>
                     </div>
-                    <p className=' text-sm   font-light max-w-lg my-5'
+                    <p className='max-sm:text-xs sm:text-sm   font-light max-w-lg my-5'
                     >Premitto is an exclusive subscription based service that offers a
                         variety of deals and discounts on premium experiences across six
                         categories including food and beverages, beauty and wellness,
                         entertainment. retail and services, travel and hotel, and online
                         deals,</p>
                 </div>
-                <div>
-                    <img src={img1} className=' m-5 overflow-hidden rounded-md  lg:aspect-none group-hover:opacity-75 ' ></img>
-                    <img src={img2} className=' m-5 overflow-hidden rounded-md  lg:aspect-none group-hover:opacity-75 ' ></img>
+                <div className=' ck'>
+                    <img src={img1} className='max-sm:mb-5 sm:m-5 overflow-hidden rounded-md  lg:aspect-none group-hover:opacity-75 ' ></img>
+                    <img src={img2} className=' sm:m-5 overflow-hidden rounded-md  lg:aspect-none group-hover:opacity-75 ' ></img>
 
                 </div>
             </div>

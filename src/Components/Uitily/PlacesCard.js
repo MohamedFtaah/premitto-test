@@ -3,7 +3,7 @@ import React from 'react'
 export default function placeCard({ place }) {
     return (
         <div>
-            <div key={place.id} className="group relative  text-white mx-8 lg:w-96 max-lg:w-52">
+            <div key={place.id} className="group relative  text-white max-sm:mx-2 sm:mx-8 lg:w-96 max-lg:w-52">
                 <div className="aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md lg:aspect-none group-hover:opacity-75 ">
                     <img
                         src={place.imageSrc}
