@@ -3,6 +3,7 @@ import SectionOne from '../../Components/Home/SectionOne'
 import SectionTwo from '../../Components/Home/SectionTwo'
 import SectionThree from './../../Components/Home/SectionThree';
 import SectionFour from './../../Components/Home/SectionFour';
+import SectionFive from './../../Components/Home/SectionFive';
 
 export default function HomePage() {
     return (
@@ -11,6 +12,7 @@ export default function HomePage() {
             <SectionTwo></SectionTwo>
             <SectionThree></SectionThree>
             <SectionFour></SectionFour>
+            <SectionFive></SectionFive>
         </div>
     )
 }

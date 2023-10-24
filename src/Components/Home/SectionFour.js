@@ -7,7 +7,7 @@ export default function SectionFour() {
             <div className='mt-10 w-1/2  text-center'>
                 <GeneralButton >How it works</GeneralButton>
 
-                <h2 style={{ lineHeight: '55px' }} className='   text-5xl my-5  '
+                <h2 style={{ lineHeight: '55px' }} className=' max-sm:text-3xl max-sm:font-bold   text-5xl my-5  '
                 >
                     Amazing online offers
                     are waiting for you!
@@ -17,7 +17,7 @@ export default function SectionFour() {
                 >Log in to Premitto today and discover a unique way to save, with hundreds of in-
                     store deals and offers and online promo codes to enjoy the pleasure of shopping.</p>
 
-                <img src={img} className=' w-full overflow-hidden rounded-md  lg:aspect-none group-hover:opacity-75 max-lg:p-20  ' ></img>
+                <img src={img} className=' w-full overflow-hidden rounded-md  lg:aspect-none group-hover:opacity-75   ' ></img>
 
             </div>
         </div>

@@ -20,7 +20,7 @@ export default function SectionThree() {
 
             </div>
             <div style={{ flex: 1 }}>
-                <img src={img} className=' w-full overflow-hidden rounded-md  lg:aspect-none group-hover:opacity-75 max-lg:p-20  ' ></img>
+                <img src={img} className=' w-full overflow-hidden rounded-md  lg:aspect-none group-hover:opacity-75 max-lg:p-20 max-sm:p-0 ' ></img>
 
             </div>
         </div >
