@@ -8,6 +8,7 @@ module.exports = {
     "./src/Components/Home/SectionOne.js",
     "./src/Components/Home/SectionTwo.js",
     "./src/Components/Home/SectionThree.js",
+    "./src/Components/Home/SectionFour.js",
   ],
   theme: {
     extend: {},
