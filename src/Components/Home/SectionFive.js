@@ -3,7 +3,7 @@ import CartTextSectionFive from './../Uitily/CartTextSectionFive';
 
 export default function SectionFive() {
     return (
-        <div className='mx-auto max-w-2xl   px-4 sm:px-6 lg:px-8  lg:max-w-7xl  flex text-center max-sm:flex-col'>
+        <div className='mx-auto max-w-2xl   px-4 sm:px-6 lg:px-8  lg:max-w-7xl  flex text-center max-sm:flex-col mb-24'>
             <CartTextSectionFive title={'Log in'} text={`Download the mobile app from the
             Apple store.Please enter your details,
             ap register, and get our exclusive one-

@@ -4,6 +4,7 @@ import SectionTwo from '../../Components/Home/SectionTwo'
 import SectionThree from './../../Components/Home/SectionThree';
 import SectionFour from './../../Components/Home/SectionFour';
 import SectionFive from './../../Components/Home/SectionFive';
+import SectionSix from '../../Components/Home/SectionSix';
 
 export default function HomePage() {
     return (
@@ -13,6 +14,7 @@ export default function HomePage() {
             <SectionThree></SectionThree>
             <SectionFour></SectionFour>
             <SectionFive></SectionFive>
+            <SectionSix></SectionSix>
         </div>
     )
 }
