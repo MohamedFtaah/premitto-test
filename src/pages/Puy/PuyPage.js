@@ -6,7 +6,7 @@ export default function PuyPage() {
     return (
         <div className='mx-auto max-w-2xl  py-8 px-4 sm:px-6 lg:px-8 sm:py-12 lg:max-w-7xl flex flex-col justify-center items-center text-center'>
             <GeneralButton>DO more and spend less</GeneralButton>
-            <h2 className='   max-lg:text-3xl lg:text-6xl my-8 w-1/2'
+            <h2 className='   max-lg:text-3xl lg:text-6xl my-8 sm:w-1/2'
             >You'll wonder how you
 
 

@@ -4,7 +4,7 @@ import img from '../../imgs/content.png'
 export default function SectionFour() {
     return (
         <div className='mx-auto max-w-2xl  py-8 px-4 sm:px-6 lg:px-8 sm:py-12 lg:max-w-7xl flex justify-center text-center  '>
-            <div className='mt-10 w-1/2  text-center'>
+            <div className='mt-10  sm:w-1/2  text-center'>
                 <GeneralButton >How it works</GeneralButton>
 
                 <h2 style={{ lineHeight: '55px' }} className=' max-sm:text-3xl max-sm:font-bold   text-5xl my-5  '
